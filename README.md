@@ -3,6 +3,9 @@
 This is a small project aim to implemet a swapping faces method, in which we use module dlib landmark detection.
 
 ## Installation and setup
+
+If you don't want to run .sh file you can run line by line in .sh file
+
 ### 1. Installation & setup
 **I recommend you use python 3.7, 3.8 or 3.9.**
 
