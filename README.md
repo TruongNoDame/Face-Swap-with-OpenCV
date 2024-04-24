@@ -24,7 +24,7 @@ You need put model file weights in folder models by **downloading the shape-pred
 ## Usae
 ### 1. Face swapping picture to picture
 ![](https://github.com/TruongNoDame/Face-Swap-with-OpenCV/blob/main/Demo_image2image.jpg)
-Source: https://blog.icons8.com/articles/face-swapper-swap-faces-like-never-before-for-free/
+Source image: https://blog.icons8.com/articles/face-swapper-swap-faces-like-never-before-for-free/
 
 + To use this function, you need at least 2 pictures, each contains only 1 face.
 + Put your pictures into the 'images' folder to use them.
