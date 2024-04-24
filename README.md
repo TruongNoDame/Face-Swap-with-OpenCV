@@ -21,7 +21,7 @@ First: following [this solution](https://github.com/sachadee/Dlib), you need to 
 ### 2. Install model for dlib
 You need put model file weights in folder models by **downloading the shape-predictor-68-face-landmarks.dat [here](https://drive.google.com/file/d/1ysJAViqMnkVhp2Bt2pMgIYC83WsSyg71/view?usp=sharing)**
 
-## Usae
+## Usage
 ### 1. Face swapping picture to picture
 ![](https://github.com/TruongNoDame/Face-Swap-with-OpenCV/blob/main/Demo_image2image.jpg)
 Source image: https://blog.icons8.com/articles/face-swapper-swap-faces-like-never-before-for-free/
