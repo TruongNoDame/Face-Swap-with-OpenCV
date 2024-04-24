@@ -14,7 +14,7 @@ After you create an enviroment by using `virtualenv`. You have to remove line `d
 
 `bash run/setup_no_conda.sh`
 
-Note: that to download dlib for python when not using conda you need to follow these instructions:
+Note: To download **dlib** for python when not using conda you need to follow these instructions:
 
 First: following [this solution](https://github.com/sachadee/Dlib), you need to see [this issue](https://github.com/sachadee/Dlib/issues/2#issue-1862541044) before running
 
