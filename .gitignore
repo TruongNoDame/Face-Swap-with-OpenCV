@@ -1,0 +1,8 @@
+#ignore output video and image
+outputs
+#ignore input image
+images
+#ignore virtualenv
+venv
+#ignore lankmark .dat file
+models

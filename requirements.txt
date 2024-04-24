@@ -1,0 +1,7 @@
+cmake==3.29.2
+dlib==19.22.99
+essentials==1.1.5
+imutils==0.5.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+setuptools==69.2.0
