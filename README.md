@@ -12,7 +12,7 @@ This is a small project aim to implemet a swapping faces method, in which we use
 ##### 1.2 With virtualenv
 After you create an enviroment by using `virtualenv`. You have to remove line `dlib==19.22.99` in `requirements.txt`. Then run command bellow in virtualenv enviroment.
 
-`bash run/setup_no_conda.py`
+`bash run/setup_no_conda.sh`
 
 Note: that to download dlib for python when not using conda you need to follow these instructions:
 
