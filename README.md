@@ -3,7 +3,7 @@
 This is a small project aim to implemet a swapping faces method, in which we use module dlib landmark detection.
 
 ## Installation and setup
-1. Installation & setup
+### 1. Installation & setup
 I recommend you use python 3.7, 3.8 or 3.9. 
 
 1.1 With conda
@@ -19,7 +19,7 @@ First: following [this solution](https://github.com/sachadee/Dlib), you need to 
 
 Next: `pip install dlib==19.22.99`
 
-2. Install model for dlib
+### 2. Install model for dlib
 \textbf{You can download the shape-predictor-68-face-landmarks.dat} [here](https://drive.google.com/file/d/1ysJAViqMnkVhp2Bt2pMgIYC83WsSyg71/view?usp=sharing)
 
 ## Usae
